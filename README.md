@@ -1,9 +1,10 @@
 <h1>Hi there 👋</h1>
 
-![Lines of code](https://img.shields.io/badge/Let%20me%20introduce-%20myself%20-blue)
-
 <h3>Take a look at my <a href="mike-cheek.github.io/portfolio" style={"text-decoration: none; color: #000000;"}>portfolio</a> or play <a href="mike-cheek.github.io/portfolio/game" style={"text-decoration: none; color: #000000;"}>this game</a> if you want</h3>
 
+![Lines of code](https://img.shields.io/badge/Let%20me%20introduce-%20myself%20-blue)
+
+<h2></h2>
 
 ```js
 export const mike = {
