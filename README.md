@@ -28,17 +28,8 @@ export const mike = {
 
 ```mermaid
 flowchart LR
-  A(Mike-cheek) ===> B[/Portfolio/];
-  B --> C(Game);
-  B --> D(Loading);
-  C ---> E(Just having fun!);
-  D ---> E(Just having fun!);
-  
-    click A "https://github.com/Mike-cheek" _blank
-    click B "http://mike-cheek.github.io/portfolio" _blank
-    click C "http://mike-cheek.github.io/portfolio/game" _blank
-    click D "http://mike-cheek.github.io/portfolio/loading" _blank
-
+  A(Mike-cheek) -- Born in --> B(Sicily);
+  B -- Flight --> C(Turin);
 ```
 
 <!-- ![Mike-cheek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-cheek&count_private=true&show_icons=true&theme=radical&hide=commits)-->
