@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there I'm Michele Pulvirenti 👋</h1>
+  <h1>Hi there, I'm Michele Pulvirenti 👋</h1>
   <a href="https://www.linkedin.com/in/michele-pulvirenti" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
