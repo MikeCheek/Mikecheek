@@ -1,4 +1,11 @@
-<h1>Hi there 👋</h1>
+<div align="center">
+  <h1>Hi there I'm Michele Pulvirenti 👋</h1>
+  <a href="https://linkedin.com/michele-pulvirenti" target="_blank">
+    
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)
+  
+  </a>
+</div>
 
 <h3>Take a look at my <a href="https://mike-cheek.github.io/portfolio" style={"text-decoration: none; color: #000000;"}>portfolio</a> or play <a href="https://mike-cheek.github.io/portfolio/game" style={"text-decoration: none; color: #000000;"}>this game</a> if you want</h3>
 
