@@ -38,11 +38,11 @@ export const mike = {
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mike-cheek" target="_blank">
-    <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=mike-cheek&count_private=true&show_icons=true&theme=radical" />
+  <a href="https://github.com/mikecheek" target="_blank">
+    <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=mikecheek&count_private=true&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/mike-cheek" target="_blank">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-cheek&layout=compact&theme=radical" />
+  <a href="https://github.com/mikecheek" target="_blank">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikecheek&layout=compact&theme=radical" />
   </a>
 </div>
 
