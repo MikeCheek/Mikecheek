@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/michele-pulvirenti" >
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://mike-cheek.github.io/portfolio" >
+  <a href="https://mikecheek.github.io/portfolio" >
     <img alt="Portfolio" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Portfolio&style=for-the-badge&up_color=blueviolet&up_message=On&url=https%3A%2F%2Fmike-cheek.github.io%2Fportfolio" />
   </a>
   <a href="mailto:michele00.pulvirenti@gmail.com" >
