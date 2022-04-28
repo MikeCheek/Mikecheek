@@ -14,29 +14,6 @@
 <br/>
 <br/>
 
-```js
-export const mike = {
-
-  name: "Michele",
-  surname: "Pulvirenti",
-  age: 21,
-  
-  skills: {
-    codingLanguages: [ "C", "Java", "Javascript", "Typescript", "Assembly MIPS", "BASH (Unix Shell)", "PHP" ],
-    frameworks: [ "React", "Gatsby", "NextJs" ],
-    others: [ "HTML", "CSS", "Linux", "SQL", "Matlab", "Simulink" ]
-  },
-  
-  constacts: {
-    email: "michele00.pulvirenti@gmail.com",
-    linkedin: "https://www.linkedin.com/in/michele-pulvirenti"
-  }
-};
-```
-
-<br/>
-<br/>
-
 <div align="center">
 
 <h2>Skills</h2>
@@ -80,6 +57,29 @@ export const mike = {
   
   <a href="http://www.github.com/mikecheek"><img src="https://activity-graph.herokuapp.com/graph?username=mikecheek&bg_color=22272e&color=ffffff&line=ec4899&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
+
+<br/>
+<br/>
+
+```js
+export const mike = {
+
+  name: "Michele",
+  surname: "Pulvirenti",
+  age: 21,
+  
+  skills: {
+    codingLanguages: [ "C", "Java", "Javascript", "Typescript", "Assembly MIPS", "BASH (Unix Shell)", "PHP" ],
+    frameworks: [ "React", "Gatsby", "NextJs" ],
+    others: [ "HTML", "CSS", "Linux", "SQL", "Matlab", "Simulink" ]
+  },
+  
+  constacts: {
+    email: "michele00.pulvirenti@gmail.com",
+    linkedin: "https://www.linkedin.com/in/michele-pulvirenti"
+  }
+};
+```
 
 <!--
 **Mike-cheek/Mike-cheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
