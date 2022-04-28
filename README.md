@@ -41,7 +41,7 @@
 
   <a href="http://www.github.com/mikecheek" >
      <img 
-          src="https://github-readme-stats.vercel.app/api?username=mikecheek&show_icons=true&hide=&count_private=true&title_color=f97316bf&text_color=ffffffbf&icon_color=ec4899&bg_color=00000000&hide_border=true&show_icons=true" 
+          src="https://github-readme-stats.vercel.app/api?username=mikecheek&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffffbf&icon_color=ec4899&bg_color=00000000&hide_border=true&show_icons=true" 
           alt="mikecheek's GitHub stats" 
      />
   </a>
