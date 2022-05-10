@@ -9,6 +9,9 @@
   <a href="mailto:michele00.pulvirenti@gmail.com" >
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
   </a>
+   <a href="https://www.gatsbyjs.com">
+      <img alt="Builded with Gatsby" src="https://img.shields.io/badge/Builded with -Gatsby-663399?style=for-the-badge&color=663399&logo=gatsby">
+  </a>
 </div>
 
 <br/>
