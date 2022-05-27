@@ -35,6 +35,8 @@
 <br/>
 <br/>
 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d graph" />
+
 <div align="center">
   
   <h2>Badges</h2>
