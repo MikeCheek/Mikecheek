@@ -65,6 +65,7 @@
 <br/>
 <br/>
 
+<!--
 ```js
 export const mike = {
 
@@ -84,6 +85,7 @@ export const mike = {
   }
 };
 ```
+-->
 
 <!--
 **Mike-cheek/Mike-cheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
