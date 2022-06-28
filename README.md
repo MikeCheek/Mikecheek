@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/michele-pulvirenti" >
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://michelepulvirenti.gatsbyjs.io" >
-    <img alt="Portfolio" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Portfolio&style=for-the-badge&up_color=blueviolet&up_message=On&url=https://michelepulvirenti.gatsbyjs.io" />
+  <a href="https://mikecheek.github.io/portfolio" >
+    <img alt="Portfolio" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Portfolio&style=for-the-badge&up_color=blueviolet&up_message=On&url=https://mikecheek.github.io/portfolio" />
   </a>
   <a href="mailto:michele00.pulvirenti@gmail.com" >
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
