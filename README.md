@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi there, I'm Michele Pulvirenti 👋&fontSize=50" />
   <br/>
-  <a href="https://www.linkedin.com/in/michele-pulvirenti" >
+  <a href="https://www.linkedin.com/in/michele-pulvirenti" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://mikecheek.github.io/portfolio" >
+  <a href="https://mikecheek.github.io/portfolio" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Portfolio&style=for-the-badge&up_color=blueviolet&up_message=On&url=https://mikecheek.github.io/portfolio" />
   </a>
-  <a href="mailto:michele00.pulvirenti@gmail.com" >
+  <a href="mailto:michele00.pulvirenti@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
   </a>
 </div>
