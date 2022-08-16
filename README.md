@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi there, I'm Michele Pulvirenti 👋&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20I%27m%20Michele%20Pulvirenti%20%F0%9F%91%8B&fontSize=50" />
   <br/>
   <a href="https://www.linkedin.com/in/michele-pulvirenti" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
