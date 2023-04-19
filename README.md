@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/michele-pulvirenti" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://michelepulvirenti.vercel.app" target="_blank">
+  <a href="https://michelepulvirenti.vercel.app/?r=gt" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Portfolio&style=for-the-badge&up_color=blueviolet&up_message=On&url=https://michelepulvirenti.vercel.app" />
   </a>
-  <a href="mailto:michele00.pulvirenti@gmail.com" target="_blank" >
+  <a href="mailto:pulvirentimichele00@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
   </a>
 </div>
