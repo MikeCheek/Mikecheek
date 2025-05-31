@@ -23,6 +23,8 @@
          alt="Top Languages" 
     />
   </a> -->
+
+<!--
 <div>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
@@ -61,6 +63,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
 </div>
+-->
 
 <!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="400" alt="3d graph" /> -->
 </div>
