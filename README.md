@@ -20,22 +20,22 @@
 - [Higgs-Bozon-Detection](https://github.com/MikeCheek/Higgs-Bozon-Detection) – Comparative study between Ensemble and Evolutionary learning  
 - [explainability-ai](https://github.com/MikeCheek/explainability-ai) – Projects from the Explainability AI course  
 
----
+
 
 ## 👁️ Computer Vision
 - [Semantic-Segmentation-of-Underwater-Imagery](https://github.com/MikeCheek/Semantic-Segmentation-of-Underwater-Imagery) – Semantic segmentation applied to underwater imagery  
-- [mine-recognition](https://github.com/MikeCheek/mine-recognition) – Python algorithm for mine detection in images  
+- [mine-recognition](https://github.com/MikeCheek/mine-recognition) – YOLO model for mine detection in images  
 - [neural-style-transfer](https://github.com/MikeCheek/neural-style-transfer) – Neural style transfer implementation  
 - [text-recognition](https://github.com/MikeCheek/text-recognition) – Webapp for recognizing text from camera input  
 
----
+
 
 ## 🗣️ Natural Language Processing
 - [ML-Tool-for-business](https://github.com/MikeCheek/ML-Tool-for-business) – NLP-focused chatbot for business tasks
 - [Project1-MachineLearningForNLP](https://github.com/MikeCheek/Project1-MachineLearningForNLP) – TripAdvisor recommendation system  
 - [webscraping-4-NLP](https://github.com/MikeCheek/webscraping-4-NLP) – NLP-focused webscraping project  
 
----
+
 
 ## 🌐 Websites
 - [portfolio](https://github.com/MikeCheek/portfolio) – Personal portfolio  
@@ -46,7 +46,7 @@
 - [naturalmente-tecnologici](https://github.com/MikeCheek/naturalmente-tecnologici) – Event website “Naturalmente Tecnologici”  
 - [web-alert](https://github.com/MikeCheek/web-alert) – Web extension for alerts on refresh  
 
----
+
 
 ## 🎲 Miscellaneous / Others
 - [ASE-Extrapoint-1-Quoridor](https://github.com/MikeCheek/ASE-Extrapoint-1-Quoridor) – Quoridor game (PoliTo course project)  
