@@ -43,7 +43,9 @@
 - [portfolio-3d](https://github.com/MikeCheek/portfolio-3d) – 3D portfolio project  
 - [wordgame](https://github.com/MikeCheek/wordgame) – Simple word guessing game webapp (PWA)  
 - [Budget-Approval-Platform-PoliTo-exam](https://github.com/MikeCheek/Budget-Approval-Platform-PoliTo-exam) – Budget approval platform (exam project)  
-- [naturalmente-tecnologici](https://github.com/MikeCheek/naturalmente-tecnologici) – Event website “Naturalmente Tecnologici”  
+- [naturalmente-tecnologici](https://github.com/MikeCheek/naturalmente-tecnologici) – Event website “Naturalmente Tecnologici”
+- [pop-funding](https://github.com/MikeCheek/pop-funding) - Crowdfunding webapp based on Algorand blockchain
+- [plm-webapp](https://github.com/MikeCheek/plm-webapp) - Product Lifecycle Management perfume webapp
 - [web-alert](https://github.com/MikeCheek/web-alert) – Web extension for alerts on refresh  
 
 
