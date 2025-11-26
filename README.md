@@ -16,17 +16,11 @@
 
 # 📂 Main Project Repositories
 
-## 🤖 Machine Learning
-- [Higgs-Bozon-Detection](https://github.com/MikeCheek/Higgs-Bozon-Detection) – Comparative study between Ensemble and Evolutionary learning  
-- [explainability-ai](https://github.com/MikeCheek/explainability-ai) – Projects from the Explainability AI course  
-
-
-
 ## 👁️ Computer Vision
+- [Plant-guardian](https://github.com/MikeCheek/plant_guardian) - Mobile application for helping in taking care of indoor plants
 - [Semantic-Segmentation-of-Underwater-Imagery](https://github.com/MikeCheek/Semantic-Segmentation-of-Underwater-Imagery) – Semantic segmentation applied to underwater imagery  
 - [mine-recognition](https://github.com/MikeCheek/mine-recognition) – YOLO model for mine detection in images  
 - [neural-style-transfer](https://github.com/MikeCheek/neural-style-transfer) – Neural style transfer implementation  
-- [text-recognition](https://github.com/MikeCheek/text-recognition) – Webapp for recognizing text from camera input  
 
 
 
@@ -34,6 +28,12 @@
 - [ML-Tool-for-business](https://github.com/MikeCheek/ML-Tool-for-business) – NLP-focused chatbot for business tasks
 - [Project1-MachineLearningForNLP](https://github.com/MikeCheek/Project1-MachineLearningForNLP) – TripAdvisor recommendation system  
 - [webscraping-4-NLP](https://github.com/MikeCheek/webscraping-4-NLP) – NLP-focused webscraping project  
+
+
+
+## 🤖 Machine Learning
+- [Higgs-Bozon-Detection](https://github.com/MikeCheek/Higgs-Bozon-Detection) – Comparative study between Ensemble and Evolutionary learning  
+- [explainability-ai](https://github.com/MikeCheek/explainability-ai) – Projects from the Explainability AI course  
 
 
 
